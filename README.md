@@ -4,7 +4,7 @@ A Httpservice wrapper for encoding and decoding data. This wrapper module suppor
 - Color3
 - Numbersequence
 - Enums
-- And maybe all of the roblox types.
+- And maybe all of the roblox property types.
 ## Installation
 ### Roblox
 https://create.roblox.com/store/asset/140335706414339/Encoder

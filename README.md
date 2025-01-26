@@ -1,5 +1,10 @@
 # Encoder
-A Httpservice wrapper for encoding and decoding data.
+A Httpservice wrapper for encoding and decoding data. This wrapper module supports types that aren't normally supported while encoding or decoding json data, such as:
+-Colorsequence
+-Color3
+-Numbersequence
+-Enums
+-And maybe all of the roblox types.
 ## Installation
 ### Roblox
 https://create.roblox.com/store/asset/140335706414339/Encoder

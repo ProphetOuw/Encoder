@@ -222,7 +222,7 @@ function m.Decode(Str)
 		local function LookInside(Current)
 			local New = {}
 			for i,v in pairs(Current) do
-				local vType = v.__type or typeof(v);
+				local vType = (typeof(v) == "table" and v.__type) or typeof(v);
 				if vType == "table" then
 					New[i] = LookInside(v);
 				elseif SupportedTypes[vType] then

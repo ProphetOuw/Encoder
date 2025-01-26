@@ -10,7 +10,7 @@ A Httpservice wrapper for encoding and decoding data. This wrapper module suppor
 https://create.roblox.com/store/asset/140335706414339/Encoder
 ### Wally
 ```
-Encoder = "prophetouw/encoder@1.1.0"
+Encoder = "prophetouw/encoder@1.1.2"
 ```
 ### Github
 See the [releases](https://github.com/ProphetOuw/Encoder/releases/tag/v1) page and download the latest rbxm file.
